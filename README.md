@@ -7,7 +7,7 @@ WebP Encoder/Decoder for Golang based on official libwebp distribution
 
 ## Install
 
-```go get -u github.com/nickalie/go-webpbin```
+```go get -u github.com/The-Web-Bakery/go-webpbin```
 
 ## Available env
 All env can be override with option functions.
